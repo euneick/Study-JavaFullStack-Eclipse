@@ -6,12 +6,17 @@ public class Data07 {
 
 	public static void main(String[] args) {
 
-		char c;
+		char c = 'A';
+		System.out.printf("%c -> %d\n", c, (int) c);
 
-		c = 'A';
-
-		System.out.println(c);
-		System.out.printf("%d %c", (int) c, c);
+		c = '0';
+		System.out.printf("%c -> %d\n", c, (int) c);
+		
+		c = 0;
+		System.out.printf("%c -> %d\n", c, (int) c);
+		
+		c = 'a';
+		System.out.printf("%c -> %d\n", c, (int) c);
 	}
 
 }
