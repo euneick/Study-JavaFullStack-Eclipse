@@ -14,7 +14,7 @@ public class Opr02_02 {
 		
 		System.out.println(true + ""); -> (true)
 		
-		System.out.println('1' + 2); -> (12)
+		System.out.println('1' + 2); -> (51)
 		
 		System.out.println('1' + '2'); -> (99)
 		
