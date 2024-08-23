@@ -25,7 +25,7 @@ public class Opr02_05 {
 		System.out.println((ch >= 65 && ch <= 90) || (ch >= 97 && ch <= 122));
 
 		// 6. int형 변수 year가 400으로 나눠떨어지거나 4로 나눠떨어지고 100으로 나눠떨어지지 않을 때 연산 결과 값이 true인 조건식
-		System.out.println((year % 400 == 0) || (year % 4 == 0 || year % 100 != 0));
+		System.out.println((year % 400 == 0) || (year % 4 == 0 && year % 100 != 0));
 
 		// 7. boolean형 변수 powerOn이 false일때 연산 결과 값이 true인 조건식
 		System.out.println(!powerOn);
