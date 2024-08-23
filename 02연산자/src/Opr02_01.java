@@ -20,9 +20,6 @@ public class Opr02_01 {
 
 		temp = x;
 		x = y;
-		y = temp;
-
-		temp = y;
 		y = z;
 		z = temp;
 
