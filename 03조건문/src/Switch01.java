@@ -2,7 +2,7 @@
 /**
  * switch문을 사용하여, 해당 문자가 소문자 모음인지 확인하는 예제
  */
-public class switch01 {
+public class Switch01 {
 
 	public static void main(String[] args) {
 
