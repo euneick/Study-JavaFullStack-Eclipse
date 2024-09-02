@@ -9,13 +9,12 @@ public class Car {
 	
 	public Car(String model) {
 
-		this.model = model;
+		this(model, "은색", 250);
 	}
 	
 	public Car(String model, String color) {
 
-		this.model = model;
-		this.color = color;
+		this(model, color, 250);
 	}
 	
 	public Car(String model, String color, int maxSpeed) {
