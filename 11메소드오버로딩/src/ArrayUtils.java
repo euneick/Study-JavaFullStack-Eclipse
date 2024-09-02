@@ -31,7 +31,7 @@ public class ArrayUtils {
 		ArrayUtils utils = new ArrayUtils();
 
 		int[] intArray = { 1, 2, 3, 4, 5 };
-		double[] doubleArray = { 1.5f, 2.5f, 3.5f };
+		double[] doubleArray = { 1.5, 2.5, 3.5 };
 
 		utils.printSum(intArray);
 		utils.printSum(doubleArray);
