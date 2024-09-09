@@ -29,7 +29,7 @@ interface Service {
 	}
 
 	/*
-	 * private static 메소드
+	 * static 메소드
 	 *  - static 메소드 안에서만 호출 가능
 	 */
 	private static void staticCommon() {
