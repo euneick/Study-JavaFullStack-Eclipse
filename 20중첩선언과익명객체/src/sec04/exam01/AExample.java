@@ -2,7 +2,7 @@
 /**
  * 중첩 클래스 - 로컬 클래스
  */
-package sec04.exam02;
+package sec04.exam01;
 
 class A {
 	
