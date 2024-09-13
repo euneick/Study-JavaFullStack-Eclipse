@@ -2,7 +2,7 @@
 /**
  * String 클래스에서 제공하는 여러 메소드들 예제
  */
-package StringTest;
+package String;
 
 public class Ex2 {
 

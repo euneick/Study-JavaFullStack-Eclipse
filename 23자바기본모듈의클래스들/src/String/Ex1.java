@@ -3,7 +3,7 @@
  * String 클래스 생성 예제
  * String 객체 주소 비교
  */
-package StringTest;
+package String;
 
 public class Ex1 {
 
