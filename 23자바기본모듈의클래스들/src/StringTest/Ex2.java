@@ -37,6 +37,11 @@ public class Ex2 {
 		System.out.println(originStr.toUpperCase());
 		
 		System.out.println(String.valueOf(10));		// 정수 10을 문자열 10으로 변환하여 리턴 
+		
+		System.out.println(originStr.lastIndexOf("pro"));
+		System.out.println(originStr.lastIndexOf('z'));
+		
+		
 	}
 
 }
