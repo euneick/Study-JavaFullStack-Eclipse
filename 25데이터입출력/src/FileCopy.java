@@ -35,6 +35,10 @@ public class FileCopy {
 			
 			size++;
 		}
+		System.out.println(size + " Bytes가 복사되었습니다.");
+		
+		fis.close();
+		fos.close();
 	}
 
 }
