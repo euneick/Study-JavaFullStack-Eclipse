@@ -19,6 +19,6 @@ import lombok.NonNull;
 public class Member {
 
 	private String id;
-	@NonNull private String name;		// 해당 필드만 초기화 시키는 생성자를 자동으로 생성하는 롬복 어노테이션
+	@NonNull private String name;		// null 값이 전달 되면 자동으로 예외를 던지는 롬복 어노테이션
 	private int age;
 }
