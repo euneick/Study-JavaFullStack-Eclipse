@@ -9,7 +9,7 @@ import java.util.function.Predicate;
  * 		T : 입력 타입
  * 		반환타입은 Boolean
  * 
- * 		test() 메소드를 통해 익명객체의 리턴값을 받을 수 있음
+ * 		test() 메소드를 통해 익명객체의 로직을 실행
  */
 public class Ex2 {
 
